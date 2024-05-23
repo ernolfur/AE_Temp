@@ -1,2 +1,4 @@
-# AE_Temp
-A and E shared repo
+# Tech Stack
+### FrontEnd: REACT/TypeScript
+### BackEnd: Java/Springboot
+### DB: PostgreSQL
